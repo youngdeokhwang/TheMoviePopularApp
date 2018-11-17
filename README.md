@@ -1,4 +1,5 @@
 # TheMoviePopularApp
+[![Build Status](https://travis-ci.org/youngdeokhwang/TheMoviePopularApp.svg?branch=master)](https://travis-ci.org/youngdeokhwang/TheMoviePopularApp)
 코틀린을 사용한 간단 프로젝트
 
 ## 목적
